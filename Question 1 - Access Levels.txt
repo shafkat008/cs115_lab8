@@ -1,0 +1,30 @@
+IF YOU CANNOT (OR CHOOSE NOT TO)
+CREATE A PDF FILE FOR QUESTION 1,
+you can provide your answers in this text file.
+
+Name:
+Student Number:
+Date:
+
+Question 1 - Access Levels
+
+Fill in the blanks in the following table which describes the access levels in a derived class's members. i.e. State whether the member's access level is public, private, or protected - or, if it is not accessible!
+
++-----------+--------------+--------------+
+| Class     | Base         | Derived      |
+| Access    | Class        | Class        |
+| specifier | Member       | Member       |
+|           | Access Level | Access Level |
++-----------+--------------+--------------+
+| public    | - private    | -            |
+|           | - public     | -            |
+|           | - protected  | -            |
++-----------+--------------+--------------+
+| protected | - private    | -            |
+|           | - public     | -            |
+|           | - protected  | -            |
++-----------+--------------+--------------+
+| private   | - private    | -            |
+|           | - public     | -            |
+|           | - protected  | -            |
++-----------+--------------+--------------+
